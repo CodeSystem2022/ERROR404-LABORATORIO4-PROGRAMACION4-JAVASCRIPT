@@ -46,7 +46,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 ---
 
-## Scrum y responsable de la tarea
+## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
 
 | CLASE | SCRUM | DESARROLLADOR/A |
 | ----- | ------ | -------------- |
@@ -63,7 +63,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 ---
 
-## <img width="40" height="40" src="https://imgicons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodología de trabajo
+## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/>  Metodología de trabajo
 
 Utilizamos al metodología de trabajo **Scrum**, tenemos todas las tareas que el equipo va a realizar el en <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-7.png" alt="external-scrum-agile-flaticons-flat-flat-icons-7"/>**Backlog** (dentro de nuestro dashboard).
 
