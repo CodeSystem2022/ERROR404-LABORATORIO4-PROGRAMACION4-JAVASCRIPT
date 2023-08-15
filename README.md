@@ -59,11 +59,11 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 | 7 | Chavez, Rodrigo | Costa, Maria Eugenia |
 | 8 | Ahumada, Brian | Alancay, Abel Matias |
 
--> [Link al **Dashboard**](https://github.com/orgs/CodeSystem2022/projects/1145)
+-> [Link al **Dashboard**](https://github.com/orgs/CodeSystem2022/projects/1146)
 
 ---
 
-## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodología de trabajo
+## <img width="40" height="40" src="https://imgicons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodología de trabajo
 
 Utilizamos al metodología de trabajo **Scrum**, tenemos todas las tareas que el equipo va a realizar el en <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-7.png" alt="external-scrum-agile-flaticons-flat-flat-icons-7"/>**Backlog** (dentro de nuestro dashboard).
 
