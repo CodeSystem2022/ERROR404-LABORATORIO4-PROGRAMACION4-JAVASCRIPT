@@ -26,7 +26,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 ---
 
-## :book: Clases
+## <img width="40" height="40" src="https://img.icons8.com/color/40/book.png" alt="book"/>  Clases
 
 - Clase 1 - Lunes 14 Agosto
 
