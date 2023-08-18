@@ -4,7 +4,7 @@ const productos = [
         productName:"Cafe",
         price:"$600",
         quantity:1,
-        img:"/client/media/cafe.jpg",
+        img:"../media/cafe.jpg",
 
     },
 
@@ -13,7 +13,7 @@ const productos = [
         productName:"Cafe con Leche",
         price:"$700",
         quantity:1,
-        img:"/client/media/cafeconLeche.jpg",
+        img:"../media/cafeconLeche.jpg",
         
     },
 
@@ -22,7 +22,7 @@ const productos = [
         productName:"Cookies",
         price:"$400",
         quantity:1,
-        img:"/client/media/cookies.jpg",
+        img:"../media/cookies.jpg",
         
     },
 
@@ -31,7 +31,7 @@ const productos = [
         productName:"Medias Lunas",
         price:"$300",
         quantity:1,
-        img:"/client/media/mediaslunas.jpg",
+        img:"../media/mediaslunas.jpg",
         
     },
 
@@ -40,7 +40,7 @@ const productos = [
         productName:"Rolls de Canela",
         price:"$500",
         quantity:1,
-        img:"/client/media/rolloscanela.jpg",
+        img:"../media/rolloscanela.jpg",
         
     },
 
@@ -49,7 +49,7 @@ const productos = [
         productName:"Tarta de Frutos",
         price:"$900",
         quantity:1,
-        img:"/client/media/tartaFrutos.jpg",
+        img:"../media/tartaFrutos.jpg",
         
     },
 
@@ -58,7 +58,7 @@ const productos = [
         productName:"Te",
         price:"$700",
         quantity:1,
-        img:"/client/media/te.jpg",
+        img:"../media/te.jpg",
         
     },
 
@@ -67,7 +67,7 @@ const productos = [
         productName:"Porción de Torta",
         price:"$1500",
         quantity:1,
-        img:"/client/media/torta.jpg",
+        img:"../media/torta.jpg",
         
     },
 
@@ -76,7 +76,7 @@ const productos = [
         productName:"Tostadas Con Dulce",
         price:"$500",
         quantity:1,
-        img:"/client/media/tostadas.jpg",
+        img:"../media/tostadas.jpg",
         
     },
 
@@ -85,7 +85,7 @@ const productos = [
         productName:"Tostado",
         price:"$1500",
         quantity:1,
-        img:"/client/media/tostado.jpg",
+        img:"../media/tostado.jpg",
         
     },
 
