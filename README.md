@@ -57,8 +57,8 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
-| ----- | ------ | -------------- | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
+| ----- | ------ | -------------- | ---------- |
+| 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 2 | Calle, Sonia | Chavez, Rodrigo | |
 | 3 | Costa, Maria Eugenia | Navarro, Lucas | |
 | 4 | Sanguinetti Flores, Pablo | Ahumada, Brian | |
