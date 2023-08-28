@@ -28,7 +28,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 ## <img width="40" height="40" src="https://img.icons8.com/color/40/book.png" alt="book"/>  Clases
 
-- Clase 1 - Lunes 14 Agosto
+- [Clase 1 - Lunes 14 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client): Clase 01 E-commerce Básico Parte 01
 
 - Clase 2 - Lunes 28 Agosto
 
@@ -56,20 +56,20 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
 
-| CLASE | SCRUM | DESARROLLADOR/A |
-| ----- | ------ | -------------- |
-| 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro |
-| 2 | Calle, Sonia | Chavez, Rodrigo |
-| 3 | Costa, Maria Eugenia | Navarro, Lucas |
-| 4 | Sanguinetti Flores, Pablo | Ahumada, Brian |
-| 5 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel |
-| 6 | Berrini, Alejandro | Calle, Sonia |
-| 7 | Chavez, Rodrigo | Costa, Maria Eugenia |
-| 8 | Navarro, Lucas |  Sanguinetti Flores, Pablo |
-| 9 | Ahumada, Brian | Alancay, Abel Matias |
-| 10 | Alsina, Maximiliano Gabriel | Berrini, Alejandro |
-| 11 | Calle, Sonia | Chavez, Rodrigo |
-| 12 | Costa, Maria Eugenia | Navarro, Lucas |
+| CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
+| ----- | ------ | -------------- | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
+| 2 | Calle, Sonia | Chavez, Rodrigo | |
+| 3 | Costa, Maria Eugenia | Navarro, Lucas | |
+| 4 | Sanguinetti Flores, Pablo | Ahumada, Brian | |
+| 5 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
+| 6 | Berrini, Alejandro | Calle, Sonia | |
+| 7 | Chavez, Rodrigo | Costa, Maria Eugenia | |
+| 8 | Navarro, Lucas |  Sanguinetti Flores, Pablo | |
+| 9 | Ahumada, Brian | Alancay, Abel Matias | |
+| 10 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
+| 11 | Calle, Sonia | Chavez, Rodrigo | |
+| 12 | Costa, Maria Eugenia | Navarro, Lucas | |
 
 -> [Link al **Dashboard**](https://github.com/orgs/CodeSystem2022/projects/1146)
 
@@ -93,13 +93,21 @@ En dicho dashboard tenemos los estados:
 
 - Tenemos la rama principal llamada **main**
 
-- Tenemos la rama secundaria, llamada **develop**, desde la cual vamos a ir sacando las **ramas de trabajo** para realizar la tarea asignada.
+- Tenemos la rama secundaria, llamada **release/nro-de-version**, desde la cual vamos a ir subiendo las clases. Como vamos a subir una clase por persona, solo trabajaremos con la rama release. Esta rama se ira incrementando el numero de version a medida que vayamos completando las clases
 
-- Tenemos la rama **Release** que se va a ir actualizando una vez al mes.
-
-- Usamos **tags** en las distintas versiones de las release
+- Usamos **tags** en las distintas versiones de las release -> [Aca se puede consultar la documentación de Atlassian sobra las **tags**](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-tag)
 
 - Por cada clase creamos una carpeta correspondiente, la nombramos **clase-nro**, ejemplo: **clase-1**
+
+
+Dejamos un grafico de como va a ser el workflow de las ramas:
+
+```
+ X ------> main--------------------X
+           |                       ^
+           |                       | tag: v.1.0.0
+           |--- release/1.0.0------|
+```
 
 ---
  
