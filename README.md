@@ -30,7 +30,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - [Clase 1 - Lunes 14 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client): Clase 01 E-commerce Básico Parte 01
 
-- Clase 2 - Lunes 28 Agosto: Clase 02 E-commerce Básico Parte 02
+- [Clase 2 - Lunes 28 Agosto].(https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client): Clase 02 E-commerce Básico Parte 02
 
 - Clase 3 - Lunes 4 Septiembre
 
@@ -59,7 +59,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | ---------- |
 | 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 2 | Calle, Sonia | Chavez, Rodrigo | |
+| 2 | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
 | 3 | Costa, Maria Eugenia | Navarro, Lucas | |
 | 4 | Sanguinetti Flores, Pablo | Ahumada, Brian | |
 | 5 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
