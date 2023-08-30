@@ -58,12 +58,12 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | ---------- |
-| 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 2 | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
-| 3 | Costa, Maria Eugenia | Navarro, Lucas | |
-| 4 | Sanguinetti Flores, Pablo | Ahumada, Brian | |
-| 5 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
-| 6 | Berrini, Alejandro | Calle, Sonia | |
+| 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  14 AUG |
+| 2 | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> "28 AUG |
+| 3 | Costa, Maria Eugenia | Navarro, Lucas | 4 SEP |
+| 4 | Sanguinetti Flores, Pablo | Ahumada, Brian | 11 SEP |
+| 5 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 18 SEP |
+| 6 | Berrini, Alejandro | Calle, Sonia | 25 SEP  |
 | 7 | Chavez, Rodrigo | Costa, Maria Eugenia | |
 | 8 | Navarro, Lucas |  Sanguinetti Flores, Pablo | |
 | 9 | Ahumada, Brian | Alancay, Abel Matias | |
