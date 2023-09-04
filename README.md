@@ -64,12 +64,12 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 | 4 | Sanguinetti Flores, Pablo | Ahumada, Brian | 11 SEP |
 | 5 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 18 SEP |
 | 6 | Berrini, Alejandro | Calle, Sonia | 25 SEP  |
-| 7 | Chavez, Rodrigo | Costa, Maria Eugenia | |
-| 8 | Navarro, Lucas |  Sanguinetti Flores, Pablo | |
-| 9 | Ahumada, Brian | Alancay, Abel Matias | |
-| 10 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
-| 11 | Calle, Sonia | Chavez, Rodrigo | |
-| 12 | Costa, Maria Eugenia | Navarro, Lucas | |
+| 7 | Chavez, Rodrigo | Costa, Maria Eugenia | 2 OCT |
+| 8 | Navarro, Lucas |  Sanguinetti Flores, Pablo | 9 OCT |
+| 9 | Ahumada, Brian | Alancay, Abel Matias | 16 OCT |
+| 10 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | 23 OCT |
+| 11 | Calle, Sonia | Chavez, Rodrigo | 30 OCT |
+| 12 | Costa, Maria Eugenia | Navarro, Lucas | 6 NOV |
 
 -> [Link al **Dashboard**](https://github.com/orgs/CodeSystem2022/projects/1146)
 
