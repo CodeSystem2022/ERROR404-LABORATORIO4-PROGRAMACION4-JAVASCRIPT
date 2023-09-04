@@ -32,7 +32,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - [Clase 2 - Lunes 28 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client): Clase 02 E-commerce Básico Parte 02
 
-- Clase 3 - Lunes 4 Septiembre
+- Clase 3 - Lunes 4 Septiembre: Clase 03 E-commerce Básico Parte 03
 
 - Clase 4 - Lunes 11 Septiembre
 
