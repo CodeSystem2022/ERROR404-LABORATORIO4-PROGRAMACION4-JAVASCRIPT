@@ -44,13 +44,13 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - Clase 8 - Lunes 9 de Octubre 
 
-- Clase 9 - Lunes 16 de Octubre 
+- Feriado puente - Lunes 16 de Octubre 
 
-- Clase 10 - Lunes 23 de Octubre 
+- Clase 9 - Lunes 23 de Octubre 
  
-- Clase 11 - Lunes 30 de Octubre 
+- Clase 10 - Lunes 30 de Octubre 
 
-- Clase 12 - Lunes 7 de Noviembre
+- Clase 11 - Lunes 7 de Noviembre
 
 ---
 
@@ -58,18 +58,18 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | ---------- |
-| 1 - 14AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 2 -  28AUG | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 3 - 4SEP | Costa, Maria Eugenia | Navarro, Lucas | x |
-| 4 - 11SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
-| 5 - 18SEP | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
-| 6  - 25SEP | Berrini, Alejandro | Calle, Sonia | x  |
-| 7 - 2OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
-| 8 - 9OCT | Navarro, Lucas |  Sanguinetti Flores, Pablo | x |
-| 9 - 16OCT | Ahumada, Brian | Alancay, Abel Matias | x |
-| 10 - 23OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
-| 11 - 30OCT | Calle, Sonia | Chavez, Rodrigo | x |
-| 12 - 6NOV  | Costa, Maria Eugenia | Navarro, Lucas | x |
+| 1 - 14 AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 2 -  28 AUG | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 3 - 4 SEP | Costa, Maria Eugenia | Navarro, Lucas | x |
+| 4 - 11 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 5 - 18 SEP | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 6  - 25 SEP | Berrini, Alejandro | Calle, Sonia | x  |
+| 7 - 2 OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 8 - 9 OCT | Navarro, Lucas |  Sanguinetti Flores, Pablo | x |
+| 9 - 23 OCT | Ahumada, Brian | Alancay, Abel Matias | x |
+| 10 - 30 OCT  | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
+| 11 - 6 NOV  | Calle, Sonia | Chavez, Rodrigo | x |
+
 
 -> [Link al **Dashboard**](https://github.com/orgs/CodeSystem2022/projects/1146)
 
