@@ -58,18 +58,18 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | ---------- |
-| 1 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  14 AUG |
-| 2 | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> 28 AUG |
-| 3 | Costa, Maria Eugenia | Navarro, Lucas | 4 SEP |
-| 4 | Sanguinetti Flores, Pablo | Ahumada, Brian | 11 SEP |
-| 5 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 18 SEP |
-| 6 | Berrini, Alejandro | Calle, Sonia | 25 SEP  |
-| 7 | Chavez, Rodrigo | Costa, Maria Eugenia | 2 OCT |
-| 8 | Navarro, Lucas |  Sanguinetti Flores, Pablo | 9 OCT |
-| 9 | Ahumada, Brian | Alancay, Abel Matias | 16 OCT |
-| 10 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | 23 OCT |
-| 11 | Calle, Sonia | Chavez, Rodrigo | 30 OCT |
-| 12 | Costa, Maria Eugenia | Navarro, Lucas | 6 NOV |
+| 1 - 14AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 2 -  28AUG | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 3 - 4SEP | Costa, Maria Eugenia | Navarro, Lucas | x |
+| 4 - 11SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 5 - 18SEP | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 6  - 25SEP | Berrini, Alejandro | Calle, Sonia | x  |
+| 7 - 2OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 8 - 9OCT | Navarro, Lucas |  Sanguinetti Flores, Pablo | x |
+| 9 - 16OCT | Ahumada, Brian | Alancay, Abel Matias | x |
+| 10 - 23OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
+| 11 - 30OCT | Calle, Sonia | Chavez, Rodrigo | x |
+| 12 - 6NOV  | Costa, Maria Eugenia | Navarro, Lucas | x |
 
 -> [Link al **Dashboard**](https://github.com/orgs/CodeSystem2022/projects/1146)
 
