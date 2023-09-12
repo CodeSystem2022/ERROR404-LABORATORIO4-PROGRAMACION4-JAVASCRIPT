@@ -44,7 +44,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - Clase 8 - Lunes 9 de Octubre 
 
-- Feriado puente - Lunes 16 de Octubre 
+- Lunes 16 de Octubre -> Feriado puente
 
 - Clase 9 - Lunes 23 de Octubre 
  
