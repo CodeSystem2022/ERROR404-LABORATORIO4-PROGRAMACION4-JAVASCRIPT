@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--style-->
+    <link rel="stylesheet" href="styles.css">
+    
+    <script src="https://sdk.mercadopago.com/js/v2"></script>
+    <title>Document</title>
+</head>
+<body>
+    <!--Shop content-->
+    <div class="card-proucts-container">
+        <div class="card-products" id="shopContent"></div>
+
+    </div>
+    
+    <!--cart-btn-->
+    <div class="cart-btn" id="cart-btn">🛒</div>
+    <!--cart counter-->
+    <span class="cart-counter" id="cart-counter">0</span>
+
+    <!--Modal contenedor del carrito-->
+    <div class="modal-overlay" id="modal-overlay"></div><!--fondo del modal: se interpone entre el sitio y el modal para ponerle transparencia algo oscuro-->
+    <div class="modal-container" id="modal-container"></div><!--contenedor del modal-->
+
+    
+    <script src="/javaScript/e-commerce2023/client/js/products.js"></script>
+    <script src="/javaScript/e-commerce2023/client/js/index.js"></script>
+    <script src="/javaScript/e-commerce2023/client/js/cart.js"></script>
+
+</body>
+</html>
