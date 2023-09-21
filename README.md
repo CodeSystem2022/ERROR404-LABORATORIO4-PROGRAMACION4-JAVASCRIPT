@@ -32,7 +32,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - [Clase 2 - Lunes 28 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client):  E-commerce Básico Parte 02
 
-- Clase 3 - Lunes 4 Septiembre:  E-commerce Básico Parte 03
+- [Clase 3 - Lunes 4 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client):  E-commerce Básico Parte 03
 
 - Clase 4 - Lunes 11 Septiembre:  E-commerce Básico Parte 04
 
@@ -60,7 +60,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 | ----- | ------ | -------------- | ---------- |
 | 1 - 14 AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 2 -  28 AUG | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 3 - 4 SEP | Costa, Maria Eugenia | Navarro, Lucas | x |
+| 3 - 4 SEP | Costa, Maria Eugenia | Navarro, Lucas |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 4 - 11 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
 | 5 - 18 SEP | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
 | 6  - 25 SEP | Berrini, Alejandro | Calle, Sonia | x  |
