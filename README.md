@@ -36,7 +36,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - [Clase 4 - Lunes 11 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/e-commerce2023/client): :  E-commerce Básico Parte 04
 
-- Clase 5 - Lunes 18 Septiembre
+- [Clase 5 - Lunes 18 Septiembre](): Proyecto con stack pern por Daniel Guerrero -> Parte 1
 
 - Clase 6 - Lunes 25 Septiembre
 
