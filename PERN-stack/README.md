@@ -1,6 +1,43 @@
 # Lista de tareas
 
-Proyecto con stack PERN (Postgresql, Express, React, Nodejs), para crear una lista de tareas.
+Proyecto con stack PERN, para crear una lista de tareas.
+
+PERN = Postgresql, Express, React, Nodejs
+
+- Postgresql: base de datos no relacional
+
+- Express: Nodejs web Framework
+
+- React: Front End JavaScrpt Library
+
+- Nodejs: JavaScript runetime enviroment
+
+---
+
+## Al correrlo en local
+
+- `npm i` para instalar node modules
+
+- Ir al archivo **db.js** y fijarse en la configuración, cambiar de ser necesario tanto el user como el **password**, acorde a lo que se tenga localmente configurado. Y recordar que ya figura la basa de datos de nombre **PERN** (chequear que ya este creada localmente)
+
+- Hay que crear la base de datos en postgress local. Desde **PgAdmin**, vamos a **Databases** > **Create** > **Database**. Vamos a la solapa de **general** y en *+database** ponemos le nombre de la base de datos: `PERN` y hacemos click en **Store**.
+
+Ahora si vamos a **Schemas** y buscamos **tables** vemos que no tenemos tablas, entocnes la agregamos con: **Create** >  **Table** ó sino **Create** > **QueryTool** y desde el archivo **init.sql** nos copiamos la query:
+
+```SQL
+CREATE TABLE tareas (
+  id SERIAL PRIMARY KEY,
+  titulo VARCHAR(255) UNIQUE NOT NULL,
+  descripcion TEXT
+)
+```
+
+Ahora si refrescamos en **Tables** vamos a ver la nueva tabla **Tareas**, si vamos a **ViewData** > **AllRows** vemos la tabla vacia, pero si vemos que es con esta estructura
+
+| id | titulo | descripcion |
+| -- | ------ | ----------- |
+| PK integr...  | character varying(255) | text |
+
 
 ---
 
@@ -32,7 +69,7 @@ Proyecto con stack PERN (Postgresql, Express, React, Nodejs), para crear una lis
 
 - express: el Framework BackEnd de Nodejs, que nos permite crear le servidor web
 
-- express-promise-router: la forma en que podemos tener distintas rutas y posibilidad de manejar errores
+- express-promise-router: la forma en que podemos tener distintas rutas y posibilidad de manejar errores, nos evitamos de crear el try-catch
 
 - morgan: es una biblioteca que nos ayuda a ver por consola los request del Front
 
