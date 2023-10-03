@@ -38,9 +38,9 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - [Clase 5 - Lunes 18 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/PERN-stack): Proyecto con stack pern por Daniel Guerrero -> Parte 1
 
-- Clase 6 - Lunes 25 Septiembre
+- Clase 6 - Lunes 25 Septiembre: Proyecto con stack pern por Daniel Guerrero -> Parte 2
 
-- Clase 7 - Lunes 2 de Octubre
+- Clase 7 - Lunes 2 de Octubre: Proyecto con stack pern por Daniel Guerrero -> Parte 3
 
 - Clase 8 - Lunes 9 de Octubre 
 
