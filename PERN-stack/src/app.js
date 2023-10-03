@@ -2,12 +2,15 @@ import express from 'express'
 import morgan from 'morgan'
 import tareasRoutes from './router/tareas.routes.js'
 import authRoutes from './router/auth.routes.js'
+import cookieParser from 'cookie-parser'
 
 const app = express()
 
 /* * * * * *  Middleware  * * * * * * * * */
 // el modulo morgan en la configuracion dev, para ver mensajes más limpios en consola
 app.use(morgan('dev'))
+// para poder tener las cookies con su key y value
+app.use(cookieParser())
 // para pasarlo a formato JSON
 app.use(express.json())
 // usando de express urlencoded

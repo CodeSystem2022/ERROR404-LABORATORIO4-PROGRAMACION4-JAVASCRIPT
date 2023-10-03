@@ -2,8 +2,11 @@ import { pool } from '../db.js'
 
 // Lista las tareas ya creadas
 export const listarTareas = async (req, res) => {
+  console.log('Usuario autorizado: ', req.usuarioId)
+
   const result = await pool.query('SELECT * FROM tareas')
   console.log('Tareas: ', result)
+  
   return res.send(result.rows)
 }
 

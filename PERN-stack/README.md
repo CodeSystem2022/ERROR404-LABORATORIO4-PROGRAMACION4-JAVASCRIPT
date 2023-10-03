@@ -39,12 +39,26 @@ Ahora si refrescamos en **Tables** vamos a ver la nueva tabla **Tareas**, si vam
 | PK integr...  | character varying(255) | text |
 
 
+Y también debo tneer la tabla de **usuarios**, si no la tengo la puedo crear con:
+
+```SQL
+CREATE TABLE usuarios (
+  id SERIAL PRIMARY KEY,
+  name                  VARCHAR(255) NOT NULL,
+  email VARCHAR(255) UNIQUE NOT NULL,
+  password VARCHAR(255) NOT NULL,
+  fecha_registro TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  fecha_actualizacion TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+```
+
 ---
 
 ## Dependencias 
 
 ```
  "dependencies": {
+    "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "express": "^4.18.2",
@@ -62,6 +76,8 @@ Ahora si refrescamos en **Tables** vamos a ver la nueva tabla **Tareas**, si vam
 ```
 
 ### Dependencias de producción
+
+- bcrypt, para poder encriptar el password en el registro y creacion de nuevo usuario
 
 - cookie-parser: para manejar las cookies, creadas a traves de los objetos de JavaScript
 

@@ -6,16 +6,18 @@ import {
   listarTarea,
   listarTareas
 } from '../controllers/tareas.controller.js'
+import { isAuth } from '../middlewares/auth.middleware.js'
 
 const router = Router()
 
-router.get('/tareas', listarTareas)
-router.get('/tareas/:id', listarTarea)
+router.get('/tareas', isAuth, listarTareas)
 
-router.post('/tareas', crearTarea)
+router.get('/tareas/:id', isAuth, listarTarea)
 
-router.put('/tareas/:id', actualizarTarea)
+router.post('/tareas', isAuth, crearTarea)
 
-router.delete('/tareas/:id', eliminarTarea)
+router.put('/tareas/:id', isAuth, actualizarTarea)
+
+router.delete('/tareas/:id', isAuth, eliminarTarea)
 
 export default router
