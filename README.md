@@ -95,9 +95,19 @@ En dicho dashboard tenemos los estados:
 
 - Tenemos la rama secundaria, llamada **release/nro-de-version**, desde la cual vamos a ir subiendo las clases. Como vamos a subir una clase por persona, solo trabajaremos con la rama release. Esta rama se ira incrementando el numero de version a medida que vayamos completando las clases
 
-- Usamos **tags** en las distintas versiones de las release -> [Aca se puede consultar la documentación de Atlassian sobra las **tags**](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-tag)
+- Usamos **tags** en las distintas versiones de las release -> [Aca se puede consultar la documentación de Atlassian sobra las **tags**](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-tag), en la tag vamos a dejar asentado tanto la version como la clase, por ejemplo: `clase5-v.1.0.0`.
 
-- Por cada clase creamos una carpeta correspondiente, la nombramos **clase-nro**, ejemplo: **clase-1**
+### ¿Como creamos una tag?
+
+`git tag <nombre de la tag>`
+
+por ejemplo: `git tag clase5-v.1.0.0`
+
+### ¿Como subimos la tag local al repositorio remoto?
+
+Recordar usar el comando `git push --tags` para subir las tag al repositorio remoto
+
+
 
 
 Dejamos un grafico de como va a ser el workflow de las ramas:
@@ -105,7 +115,7 @@ Dejamos un grafico de como va a ser el workflow de las ramas:
 ```
  X ------> main--------------------X
            |                       ^
-           |                       | tag: v.1.0.0
+           |                       | tag: clase5-v.1.0.0
            |--- release/1.0.0------|
 ```
 
@@ -115,7 +125,7 @@ Dejamos un grafico de como va a ser el workflow de las ramas:
 
 En el Dashboard por cada tarea, la convertimos en **issue**, usamos ese número de issue, para poder traquear la misma.
 
-1. Nos situamos siempre en la rama **develop**, desde ahi creamos al nueva rama con el comando: `$ git checkout -b feat/#(nro.issue)-clase_nro-tema`, por ejemplo `git checkout -b feat/#1-clase1-proyecto-calculadora` este es un ejemplo para el issue #1 de la clase 1 donde vimos el proyecto calculadora.
+1. Nos situamos siempre en la rama **main**, desde ahi creamos al nueva rama con el comando: `$ git checkout -b feat/#(nro.issue)-clase_nro-tema`, por ejemplo `git checkout -b feat/#1-clase1-proyecto-calculadora` este es un ejemplo para el issue #1 de la clase 1 donde vimos el proyecto calculadora.
 
 2. Siempre vamos a respetar la nomenclatura:
 
