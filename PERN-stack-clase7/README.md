@@ -50,3 +50,38 @@ Proyecto con stack PERN (Postgresql, Express, React, Nodejs), para crear una lis
 - ESLint: para tener bien formateado el codigo
 
 - nodemoon: para ir viendo en vivo los cambios en el Back
+
+---
+
+## Estructura del proyecto - Back End
+
+```
+> database
+> node_modules
+> src
+   > controllers
+   > libs
+   > middlewares
+   > router
+   > schemas
+   app.js
+   config.js
+   db.js
+   index.js
+.gitignore
+package-lock.json
+package.json
+README.md   
+```
+
+Entonces la estructura del Back End es:
+
+- **database** con el archivo **init.sql**
+
+- **controllers** es para la logica que se ejecuta al entrar a una determinada ruta
+
+- **config.js** tiene las configuraciones de la aplicación, el usuario y contraseña de la base de datos, el puerto donde se ejecuta el servidor, los token o keys, ets.... es como el archivo **.env**
+
+- **app.js** va a ir todo le codigo express
+
+- **index.js** es solo el archivo de arranque, el archivo init de la aplicación.

@@ -4,21 +4,26 @@ import tareasRoutes from './router/tareas.routes.js'
 import authRoutes from './router/auth.routes.js'
 
 const app = express()
-//middlewares
+
+// Middlewares
+// el modulo morgan en la configuracion dev, para ver mensajes más limpios en consola
 app.use(morgan('dev'))
 app.use(express.json())
-app.use(express.urlencoded({ extended: false}))
+app.use(express.urlencoded({ extended: false }))
 
-app.get('/',(req, res) => res.json({message: 'Bienvenidos a mi proyecto'}))
+app.get('/', (req, res) => res.json({ message: 'Bienvenidos a mi proyecto' }))
+app.get('/test', (req, res) => {
+  throw new Error('Error generado')
+})
 app.use('/api', tareasRoutes)
 app.use('/api', authRoutes)
 
-//manejando errores
+// Manejando errores
 app.use((err, req, res, next) => {
-    res.status(500).json({
-        status: 'error',
-        message: err.message
-    })
+  res.status(500).json({
+    status: 'error',
+    message: err.message
+  })
 })
 
 export default app
