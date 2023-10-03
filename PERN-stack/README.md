@@ -85,3 +85,13 @@ Entonces la estructura del Back End es:
 - **app.js** va a ir todo le codigo express
 
 - **index.js** es solo el archivo de arranque, el archivo init de la aplicación.
+
+---
+
+## Extensiones para VSC
+
+- Thunder Client, hacemos click en **New request**, elegimos el método: **GET** / **POST** / **PUT** / **DELETE**, y completamos la url: `localhost:3000/`.
+
+Por ejemplo si quiero ver la tarea con id 1: `GET/localhost:3000/api/tareas/1`
+
+---
