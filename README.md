@@ -1,54 +1,54 @@
 # ERROR 404 - LABORATORIO 4 (PROGRAMACION 4 ) - JAVASCRIPT
 
-En este repositorio del grupo  <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-error-404-computer-science-flaticons-lineal-color-flat-icons.png" alt="external-error-404-computer-science-flaticons-lineal-color-flat-icons"/> ERROR-404 va a dejar los ejercicios de <img width="40" height="40" src="https://img.icons8.com/color/40/javascript--v1.png" alt="javascript--v1"/> JavaScript de la materia Laboratorio 4 (Programación 4)
+En este repositorio del grupo <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-error-404-computer-science-flaticons-lineal-color-flat-icons.png" alt="external-error-404-computer-science-flaticons-lineal-color-flat-icons"/> ERROR-404 va a dejar los ejercicios de <img width="40" height="40" src="https://img.icons8.com/color/40/javascript--v1.png" alt="javascript--v1"/> JavaScript de la materia Laboratorio 4 (Programación 4)
 
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/doodle/40/boy.png" alt="boy"/> <img width="40" height="40" src="https://img.icons8.com/doodle/40/girl.png" alt="girl"/> Integrantes de grupo
 
-- [Ahumada, Brian](https://github.com/brianahumada)                        
+- [Ahumada, Brian](https://github.com/brianahumada)
 
-- [Alancay, Abel Matias](https://github.com/matias9486)                
+- [Alancay, Abel Matias](https://github.com/matias9486)
 
-- [Alsina, Maximiliano Gabriel](https://github.com/MalsinaG)   
+- [Alsina, Maximiliano Gabriel](https://github.com/MalsinaG)
 
-- [Berrini, Alejandro](https://github.com/AlejandroEB89)                 
+- [Berrini, Alejandro](https://github.com/AlejandroEB89)
 
-- [Calle, Sonia](https://github.com/SoCalle) 
+- [Calle, Sonia](https://github.com/SoCalle)
 
-- [Chavez, Rodrigo](https://github.com/RodrigoChavez1986)                       
+- [Chavez, Rodrigo](https://github.com/RodrigoChavez1986)
 
-- [Costa, Maria Eugenia](https://github.com/eugenia1984)              
+- [Costa, Maria Eugenia](https://github.com/eugenia1984)
 
-- [Navarro, Lucas](https://github.com/LucasNavarro01)                                            
+- [Navarro, Lucas](https://github.com/LucasNavarro01)
 
 - [Sanguinetti Flores, Pablo](https://github.com/Pablo1653)
 
 ---
 
-## <img width="40" height="40" src="https://img.icons8.com/color/40/book.png" alt="book"/>  Clases
+## <img width="40" height="40" src="https://img.icons8.com/color/40/book.png" alt="book"/> Clases
 
 - [Clase 1 - Lunes 14 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client): E-commerce Básico Parte 01
 
-- [Clase 2 - Lunes 28 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client):  E-commerce Básico Parte 02
+- [Clase 2 - Lunes 28 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client): E-commerce Básico Parte 02
 
-- [Clase 3 - Lunes 4 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client):  E-commerce Básico Parte 03
+- [Clase 3 - Lunes 4 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/ecomerce2022/client): E-commerce Básico Parte 03
 
-- [Clase 4 - Lunes 11 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/e-commerce2023/client): :  E-commerce Básico Parte 04
+- [Clase 4 - Lunes 11 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/e-commerce2023/client): : E-commerce Básico Parte 04
 
 - [Clase 5 - Lunes 18 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/PERN-stack): Proyecto con stack pern por Daniel Guerrero -> Parte 1
 
-- [Clase 6 - Lunes 25 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/PERN-stack): Proyecto con stack pern por Daniel Guerrero -> Parte 2
+- [Clase 6 - Lunes 25 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/PERN-stack): Proyecto con stack pern por Daniel Guerrero -> Parte 2. CRUD de tarea
 
-- Clase 7 - Lunes 2 de Octubre: Proyecto con stack pern por Daniel Guerrero -> Parte 3
+- [Clase 7 - Lunes 2 de Octubre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/PERN-stack): Proyecto con stack pern por Daniel Guerrero -> Parte 3. Registro y Autenticación de Usuarios
 
-- Clase 8 - Lunes 9 de Octubre 
+- Clase 8 - Lunes 9 de Octubre
 
 - Lunes 16 de Octubre -> Feriado puente
 
-- Clase 9 - Lunes 23 de Octubre 
- 
-- Clase 10 - Lunes 30 de Octubre 
+- Clase 9 - Lunes 23 de Octubre
+
+- Clase 10 - Lunes 30 de Octubre
 
 - Clase 11 - Lunes 7 de Noviembre
 
@@ -56,30 +56,29 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
 
-| CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
-| ----- | ------ | -------------- | ---------- |
-| 1 - 14 AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 2 -  28 AUG | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 3 - 4 SEP | Costa, Maria Eugenia | Navarro, Lucas |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 4 - 11 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 5 - 18 SEP | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 6  - 25 SEP | Chavez, Rodrigo | Costa, Maria Eugenia | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 7 - 2 OCT |  Berrini, Alejandro | Calle, Sonia | x |
-| 8 - 9 OCT | Navarro, Lucas |  Sanguinetti Flores, Pablo | x |
-| 9 - 23 OCT | Ahumada, Brian | Alancay, Abel Matias | x |
-| 10 - 30 OCT  | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
-| 11 - 6 NOV  | Calle, Sonia | Chavez, Rodrigo | x |
-
+| CLASE       | SCRUM                       | DESARROLLADOR/A             | FINALIZADO                                                                                             |
+| ----------- | --------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1 - 14 AUG  | Alsina, Maximiliano Gabriel | Berrini, Alejandro          | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 2 - 28 AUG  | Calle, Sonia                | Chavez, Rodrigo             | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 3 - 4 SEP   | Costa, Maria Eugenia        | Navarro, Lucas              | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 4 - 11 SEP  | Sanguinetti Flores, Pablo   | Ahumada, Brian              | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 5 - 18 SEP  | Alancay, Abel Matias        | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 6 - 25 SEP  | Chavez, Rodrigo             | Costa, Maria Eugenia        | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 7 - 2 OCT   | Chavez, Rodrigo             | Costa, Maria Eugenia        | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 8 - 9 OCT   | Berrini, Alejandro          | Calle, Sonia                | x                                                                                                      |
+| 9 - 23 OCT  | Navarro, Lucas              | Sanguinetti Flores, Pablo   | x                                                                                                      |
+| 10 - 30 OCT | Ahumada, Brian              | Alancay, Abel Matias        | x                                                                                                      |
+| 11 - 6 NOV  | Alsina, Maximiliano Gabriel | Berrini, Alejandro          | x                                                                                                      |
 
 -> [Link al **Dashboard**](https://github.com/orgs/CodeSystem2022/projects/1146)
 
 ---
 
-## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/>  Metodología de trabajo
+## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Metodología de trabajo
 
 Utilizamos al metodología de trabajo **Scrum**, tenemos todas las tareas que el equipo va a realizar el en <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-7.png" alt="external-scrum-agile-flaticons-flat-flat-icons-7"/>**Backlog** (dentro de nuestro dashboard).
 
-En dicho dashboard tenemos los estados: 
+En dicho dashboard tenemos los estados:
 
 - **TODO**: para las tareas del Sprint activo
 
@@ -107,9 +106,6 @@ por ejemplo: `git tag clase5-v.1.0.0`
 
 Recordar usar el comando `git push --tags` para subir las tag al repositorio remoto
 
-
-
-
 Dejamos un grafico de como va a ser el workflow de las ramas:
 
 ```
@@ -120,7 +116,7 @@ Dejamos un grafico de como va a ser el workflow de las ramas:
 ```
 
 ---
- 
+
 ## <img width="40" height="40" src="https://img.icons8.com/pulsar-color/40/merge-git.png" alt="merge-git"/> ¿Cómo nombramos a las ramas ?
 
 En el Dashboard por cada tarea, la convertimos en **issue**, usamos ese número de issue, para poder traquear la misma.
