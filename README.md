@@ -38,7 +38,7 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 
 - [Clase 5 - Lunes 18 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/PERN-stack): Proyecto con stack pern por Daniel Guerrero -> Parte 1
 
-- Clase 6 - Lunes 25 Septiembre: Proyecto con stack pern por Daniel Guerrero -> Parte 2
+- [Clase 6 - Lunes 25 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-JAVASCRIPT/tree/main/PERN-stack): Proyecto con stack pern por Daniel Guerrero -> Parte 2
 
 - Clase 7 - Lunes 2 de Octubre: Proyecto con stack pern por Daniel Guerrero -> Parte 3
 
@@ -63,8 +63,8 @@ En este repositorio del grupo  <img width="40" height="40" src="https://img.icon
 | 3 - 4 SEP | Costa, Maria Eugenia | Navarro, Lucas |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 4 - 11 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 5 - 18 SEP | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 6  - 25 SEP | Berrini, Alejandro | Calle, Sonia | x  |
-| 7 - 2 OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 6  - 25 SEP | Chavez, Rodrigo | Costa, Maria Eugenia | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 7 - 2 OCT |  Berrini, Alejandro | Calle, Sonia | x |
 | 8 - 9 OCT | Navarro, Lucas |  Sanguinetti Flores, Pablo | x |
 | 9 - 23 OCT | Ahumada, Brian | Alancay, Abel Matias | x |
 | 10 - 30 OCT  | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
