@@ -4,7 +4,7 @@ import { pool } from '../db.js'
 export const listarTareas = async (req, res) => {
   console.log('Usuario autorizado: ', req.usuarioId)
 
-  const result = await pool.query('SELECT * FROM tareas')
+  const result = await pool.query('SELECT * FROM tareas WHER usuario_id = $1', [req.usuarioId]);
   console.log('Tareas: ', result)
   
   return res.send(result.rows)
@@ -12,16 +12,13 @@ export const listarTareas = async (req, res) => {
 
 // Para obtener una tarea unica
 export const listarTarea = async (req, res) => {
-  console.info('Obteniendo tarea unica')
-
-  const id = req.params.id
-  const resultado = await pool.query('SELECT * FROM tareas WHERE id = $1', [id])
+  const resultado = await pool.query('SELECT * FROM tareas WHERE id = $1', [req.params.id])
 
   // Si mando un id de una tarea que no tengo aviso
   if (resultado.rowCount === 0) {
     return res.status(404).json({
       message: `La tarea con id ${id}, no existe`
-    })
+    });
   }
 
   return res.json(resultado.rows[0])
@@ -33,8 +30,8 @@ export const crearTarea = async (req, res, next) => {
 
   try {
     const result = await pool.query(
-      'INSERT INTO tareas (titulo, descripcion) VALUES ($1, $2) RETURNNING *',
-      [titulo, descripcion]
+      'INSERT INTO tareas (titulo, descripcion, usuario_id) VALUES ($1, $2, $3) RETURNNING *',
+      [titulo, descripcion, req.usuarioId]
     )
     console.info('Creando tarea...')
     res.json(result.rows[0])
