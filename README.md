@@ -66,7 +66,7 @@ En este repositorio del grupo <img width="40" height="40" src="https://img.icons
 | 5 - 18 SEP  | Alancay, Abel Matias        | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 6 - 25 SEP  | Chavez, Rodrigo             | Costa, Maria Eugenia        | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 7 - 2 OCT   | Chavez, Rodrigo             | Costa, Maria Eugenia        | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 8 - 9 OCT   | Calle, Sonia           |     Berrini, Alejandro            | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 8 - 9 OCT   | Berrini, Alejandro           |     Calle, Sonia            | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 9 - 23 OCT  | Navarro, Lucas              | Sanguinetti Flores, Pablo   | x                                                                                                      |
 | 10 - 30 OCT | Ahumada, Brian              | Alancay, Abel Matias        | x                                                                                                      |
 | 11 - 6 NOV  | Alsina, Maximiliano Gabriel | Berrini, Alejandro          | x                                                                                                      |
