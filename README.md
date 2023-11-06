@@ -47,11 +47,11 @@ En este repositorio del grupo <img width="40" height="40" src="https://img.icons
 
 - Lunes 16 de Octubre -> Feriado puente
 
-- Clase 9 - Lunes 23 de Octubre
+- Clase 9 - Lunes 23 de Octubre -> Proyecto optativo para subir la repositorio, comenzamos a trabajar en el proyecto final (no lo subimos)
 
-- Clase 10 - Lunes 30 de Octubre
+- Clase 10 - Lunes 30 de Octubre -> Proyecto optativo para subir la repositorio, comenzamos a trabajar en el proyecto final (no lo subimos)
 
-- Clase 11 - Lunes 7 de Noviembre
+- Clase 11 - Lunes 6 de Noviembre -> Proyecto optativo para subir la repositorio, comenzamos a trabajar en el proyecto final (no lo subimos)
 
 ---
 
